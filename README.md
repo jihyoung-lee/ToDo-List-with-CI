@@ -5,7 +5,7 @@ IDLE : php storm
 </br>
 DB : MySql
 </br>
-Framework : CodeIgniter 3.0
+Framework : CodeIgniter 3.0 , Bootstrap
 
 <h1>* Main Page</h1>
 
