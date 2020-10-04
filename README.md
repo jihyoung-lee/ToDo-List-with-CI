@@ -17,4 +17,4 @@ Framework : CodeIgniter 3.0 , Bootstrap
 
 <h1>* Write Page</h1>
 
-![3](https://user-images.githubusercontent.com/67559886/95013282-46e32480-067a-11eb-992e-08854c2c99a7.PNG)
+![4](https://user-images.githubusercontent.com/67559886/95013444-44cd9580-067b-11eb-874c-0874cf242e85.PNG)
