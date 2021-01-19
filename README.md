@@ -1,6 +1,7 @@
 # ToDo-List-with-CI
 CodeIgniter 3을 이용한 Todo list
 
+PHP Version 7.2.10
 IDLE : php storm
 </br>
 DB : MySql
