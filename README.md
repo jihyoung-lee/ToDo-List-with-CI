@@ -1,5 +1,9 @@
 # ToDo-List-with-CI
 CodeIgniter 3을 이용한 Todo list
+<p>
+<img src='https://img.shields.io/github/languages/top/jihyoung-lee/ToDo-List-with-CI'> <img src='https://img.shields.io/github/languages/code-size/jihyoung-lee/ToDo-List-with-CI'>
+ <img src='https://img.shields.io/github/repo-size/jihyoung-lee/ToDo-List-with-CI'>
+ </p>
 
 PHP Version 7.2.10
 IDLE : php storm
