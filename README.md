@@ -5,13 +5,12 @@ CodeIgniter 3을 이용한 Todo list
  <img src='https://img.shields.io/github/repo-size/jihyoung-lee/ToDo-List-with-CI'>
  </p>
 
+<pre>
 PHP Version 7.2.10
-IDLE : php storm
-</br>
-DB : MySql
-</br>
+IDE : php storm
+DB : MariaDB
 Framework : CodeIgniter 3.0 , Bootstrap
-
+</pre>
 <h1>* Main Page</h1>
 
 ![1](https://user-images.githubusercontent.com/67559886/95013280-45196100-067a-11eb-935f-06f19d024324.PNG)
